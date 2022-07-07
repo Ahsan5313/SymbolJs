@@ -177,3 +177,32 @@
 
 // }
 // console.log(newWord('object'))
+
+// let myArr = [1, 2, 3, 4, 5];
+
+// let myNewArr = [];
+
+// for(let i = 0; i < myArr.length; i++){
+
+   
+
+//     if(myArr[i] % 2 === 0){
+
+//        myNewArr.push(myArr[i])
+
+      
+//     }
+
+   
+// }
+
+// console.log(myNewArr);
+
+// function newArray (arr) {
+
+//    return [arr[0], arr[arr.length - 1]];
+
+// }
+
+// var myArr = [1, 2, 3, 4, 5, 10, 12, 158, 1254];
+// console.log(newArray(myArr))

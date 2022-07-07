@@ -206,3 +206,25 @@
 
 // var myArr = [1, 2, 3, 4, 5, 10, 12, 158, 1254];
 // console.log(newArray(myArr))
+
+// function myArray(arr){
+
+//     let newArray = [];
+
+//     newArray.push(arr[0], arr[arr.length - 1]);
+   
+//     return newArray;
+// }
+
+// console.log(myArray(['Shibu', 'Ahsan', 'Huq']));
+
+// function myArr(arr){
+
+//     let newArray = [];
+//     let firstArray = arr[0];
+//     let secondArray = arr[arr.length - 1];
+     
+//     return newArray += [firstArray, secondArray]
+// }
+
+// console.log(myArr(['shibu', 'ahsan', 'huq', 'shibu']));

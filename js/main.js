@@ -228,3 +228,61 @@
 // }
 
 // console.log(myArr(['shibu', 'ahsan', 'huq', 'shibu']));
+
+// let one = 1;
+
+// function func(){
+
+//     one  = 2;
+//     return function(){
+
+//         console.log(one)
+//     }
+// }
+
+// one = 3;
+// func()()
+
+
+// function reverseArray(arr){
+
+    //  let newArray = [];
+
+    //  for(let i = 0; i > arr.length; i++){
+
+    //     newArray = newArray[arr[arr.length -1]];
+    //  }
+
+//     return arr.forEach((value, index) => {
+
+//    arr[arr.length - 1 - index]
+        
+//    })
+
+    
+
+
+
+//    return arr.map((item,idx) => arr[arr.length-1-idx])
+// }
+
+// console.log(reverseArray(myArray));
+
+// console.log(myArray)
+
+// let myArray = [ 5, 7, 8, 9, 4, 10, 1, 2, 5, 0];
+
+// function arrReverse(arr){
+
+//     let newArray = [];
+
+//     for(let i = 0; i < arr.length; i++){
+
+//         newArray[i] = arr[arr.length - i - 1];
+//     }
+
+//     return newArray;
+// }
+
+// console.log(arrReverse(myArray));
+// console.log(myArray);
